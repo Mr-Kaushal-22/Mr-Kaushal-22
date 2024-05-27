@@ -18,10 +18,6 @@ Hi, I'm Kaushal Kumar Kumawat - an FPGA developer with a passion for designing a
   - M.Sc Tech Engineering Physics (Electronics)
   - CGPA: 8.84
 
-- **Pandit Deendayal Upadhyaya Shekhawati University, Sikar (2021)**
-  - Bachelor's of Science
-  - Percentage: 68.89
-
 ## Experience
 
 ### [Vicharak Computers PVT LTD](https://vicharak.in/)
@@ -32,17 +28,6 @@ Hi, I'm Kaushal Kumar Kumawat - an FPGA developer with a passion for designing a
 **FPGA Intern** (June 2023 - July 2023) | Bengaluru
 - Designed a data acquisition architecture for CMOS Sensor interfaced by LVDS serial communication protocol with System on Chip (SoC).
 - Utilized Xilinx Vivado 2023.1 for Zynq 7000 SoC Embedded Dev Board for frame acquisition and preprocessing.
-
-## Projects
-
-### [FPGA Simulation and Implementation]()
-Implemented on Artix-7, Trion T120 FPGA, and Zynq 7000 SoC.
-
-- **Protocols**: UART, I2C, WS2812, AMBA APB
-- **RTL Design**: LVDS Data Acquisition, ATM Machine, Microcontroller, Vending Machine
-- **Combinational Circuits**: ALU, Error Detector and Corrector, Mux-Demux, Encoder-Decoder
-- **Sequential Circuits**: Counters, 24-Hour Clock, Frequency Divider, FPGA Multiplexing, Sequence Detectors, Universal Shift Registers
-- **MATLAB**: Face Recognition Using CNN, Image Processing, Signal Processing
 
 ## Technical Skills
 
