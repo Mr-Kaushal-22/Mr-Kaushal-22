@@ -49,23 +49,54 @@ Hi, I'm Kaushal Kumar Kumawat - an FPGA developer with a passion for designing a
 - **IIT JAM Physics AIR - 918** (2021)
 - **INSPIRE SHE Scholar**, Department of Science and Technology (DST) (2018-2021)
 
-## Connect with Me
+<br/><br/>
 
-- [LinkedIn](https://www.linkedin.com/in/mrkaushal22/)
-- [Personal Portfolio](https://mr-kaushal-22.github.io/My_Portfolio/)
+ <hr/>
 
-## GitHub Stats
+<h1 align="center"> 🌐 Socials: </h1>
+<br/>
+<div align="center"> 
+  <a href="mailto:kaushalkumawat1723@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/mrkaushal22/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/mrkaushal22" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <a href="https://Mr-Kaushal-22.github.io/portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  
+<br/><br/>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Kaushal-22&show_icons=true&theme=radical)
+ <hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Kaushal-22&layout=compact&theme=radical)
+<h1 align="center"> 📊 GitHub Stats: </h1>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Mr-Kaushal-22&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Mr-Kaushal-22&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mr-Kaushal-22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
+<br/><br/>
 
 
+ <hr/>
 
+<h1 align="center"> 🔝 Top Contributed Repo </h1>
+<br/>
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=Mr-Kaushal-22&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<br/><br/>
+
+</div>
+<hr/>
+<h1 align="center">Thank You!</h1>
 
 
 
