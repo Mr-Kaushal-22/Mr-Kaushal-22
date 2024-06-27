@@ -1,53 +1,61 @@
 # Welcome to My GitHub Profile
-<!--
-![FPGA Banner](https://yourimageurl.com/banner.png)
--->
-## About Me
+<img src="https://github.com/manisha-v/manisha-v/blob/main/img.png" alt="logo" style="width: 100%;">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kaushal+Kumar+Kumawat!;" />
+</h1>
 
-Hi, I'm Kaushal Kumar Kumawat - an FPGA developer with a passion for designing and implementing digital circuits on field-programmable gate arrays. I am currently pursuing my Master's in Electronics with a focus on FPGA development and SoC design at the National Institute of Technology, Warangal. 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mr-kaushal-22&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal" /> </p>
 
-- 🔭 Currently working on: **Single Board Computer for Parallel Reconfigurable Hardware Development**
-- 🌱 Learning: **Advanced digital signal processing techniques and SoC integration**
-- 💬 Ask me about: **Verilog, SystemVerilog, and FPGA-based system design**
-- 📫 How to reach me: [kaushalkumawat1723@gmail.com](mailto:kaushalkumawat1723@gmail.com)
-- ⚡ Fun fact: I enjoy solving complex problems and am always eager to learn new technologies!
+<h1 align="center"> 💫 About Me:</h1>
+<br/>
+<div align="center">
+  
+👋 Hi, I'm Kaushal Kumar Kumawat - an FPGA developer with a passion for designing and implementing digital circuits on field-programmable gate arrays. I am currently pursuing my Master's in Electronics with a focus on FPGA development and SoC design at the National Institute of Technology, Warangal. 
 
-## Education
+🔭 Currently working on: **Single Board Computer for Parallel Reconfigurable Hardware Development**
 
-- **National Institute of Technology, Warangal (2021-Present)**
-  - M.Sc Tech Engineering Physics (Electronics)
-  - CGPA: 8.84
+🌱 Learning: **Advanced digital signal processing techniques and SoC integration**
 
-## Experience
+💬 Ask me about: **Verilog, SystemVerilog, and FPGA-based system design**
 
+⚡ Fun fact: I enjoy solving complex problems and am always eager to learn new technologies!
+
+</div>
+
+<h1 align="center"> Experience:</h1>
+<br/>
+<div align="center">
+  
 ### [Vicharak Computers PVT LTD](https://vicharak.in/)
 **FPGA Developer Intern** (Feb 2024 - Present) | Surat, Gujarat
-- Working on a Single Board Computer (SBC) for Parallel Reconfigurable Hardware Development using FPGA.
+
+Working on a Single Board Computer (SBC) for Parallel Reconfigurable Hardware Development using FPGA.
 
 ### [GalaxEye Space LTD](https://www.galaxeye.space/)
 **FPGA Intern** (June 2023 - July 2023) | Bengaluru
-- Designed a data acquisition architecture for CMOS Sensor interfaced by LVDS serial communication protocol with System on Chip (SoC).
-- Utilized Xilinx Vivado 2023.1 for Zynq 7000 SoC Embedded Dev Board for frame acquisition and preprocessing.
 
-## Technical Skills
+Designed a data acquisition architecture for CMOS Sensor interfaced by LVDS serial communication protocol with System on Chip (SoC).
+Utilized Xilinx Vivado 2023.1 for Zynq 7000 SoC Embedded Dev Board for frame acquisition and preprocessing.
 
-- **Programming Languages**: C/C++
-- **Hardware Description/Verification Languages**: Verilog HDL
-- **Communication Protocols**: I2C, SPI, UART, WS2812, AMBA APB
-- **Developer Tools**: Xilinx Vivado-Vitis, VS Code, Multisim, MATLAB, Keil, Efinix Efinity, iVerilog, GTKWave
-- **Hands-on Experience**: Zynq 7000 SoC, FPGA Artix-7, 8086 Microprocessor, 8051 and ARM-7 Microcontroller, Arduino UNO R3, Trion T120 FPGA
-- **Soft Skills**: Time Management, Quick Learner, Problem Solving, Logical Thinking, Teamwork, Documentation
+</div>
 
-## Certificates
+<h1 align="center"> Technical Skills:</h1>
+<br/>
+<div align="center">
+  
+**Programming Languages**: C/C++
 
-- **VLSI (RTL to GDS) - NPTEL** (Nov 2023)
-- **Computer Organization and Architecture - Udemy** (Oct 2023)
+**Hardware Description/Verification Languages**: Verilog HDL
 
-## Achievements
+**Communication Protocols**: I2C, SPI, UART, WS2812, AMBA APB
 
-- **Class Representative**, M.Sc Tech 2nd Year, NITW (2022-2023)
-- **IIT JAM Physics AIR - 918** (2021)
-- **INSPIRE SHE Scholar**, Department of Science and Technology (DST) (2018-2021)
+**Developer Tools**: Xilinx Vivado-Vitis, VS Code, Multisim, MATLAB, Keil, Efinix Efinity, iVerilog, GTKWave
+
+**Hands-on Experience**: Zynq 7000 SoC, FPGA Artix-7, 8086 Microprocessor, 8051 and ARM-7 Microcontroller, Arduino UNO R3, Trion T120 FPGA
+
+**Soft Skills**: Time Management, Quick Learner, Problem Solving, Logical Thinking, Teamwork, Documentation
+
+</div>
 
 <br/><br/>
 
