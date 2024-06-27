@@ -1,4 +1,3 @@
-# Welcome to My GitHub Profile
 <img src="https://github.com/Mr-Kaushal-22/Mr-Kaushal-22/blob/main/blob/front.jpeg" alt="logo" style="width: 100%;">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kaushal+Kumar+Kumawat!;" />
