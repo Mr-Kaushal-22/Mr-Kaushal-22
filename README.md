@@ -9,19 +9,21 @@
 <br/>
 <div align="center">
   
-👋 Hi, I'm Kaushal Kumar Kumawat - an FPGA developer with a passion for designing and implementing digital circuits on field-programmable gate arrays. I am currently pursuing my Master's in Electronics with a focus on FPGA development and SoC design at the National Institute of Technology, Warangal. 
+👋 Hi, I am Kaushal Kumar Kumawat, a dedicated and proficient Electronics and Engineering Physics graduate who has completed a Master's degree at the National Institute of Technology, Warangal. With a robust academic background and hands-on experience in FPGA development and data acquisition architectures, I excel in designing and implementing innovative solutions for complex engineering challenges.
+
+I have extensive experience in FPGA development and data acquisition architectures. Currently, I am an FPGA Developer at Vicharak Computers PVT LTD, where I design architectures that generate multiple peripherals on FPGA and implement various data communication protocols. Previously, as an FPGA Intern at GalaxEye Space LTD, I designed a data acquisition architecture for CMOS sensors using LVDS serial communication protocols. Additionally, I have worked on various academic projects at the National Institute of Technology Warangal, including RTL Design, combinational and sequential circuits, and MATLAB-based image and signal processing.
 
 🔭 Currently working on: **Single Board Computer for Parallel Reconfigurable Hardware Development**
 
-🌱 Learning: **Advanced digital signal processing techniques and SoC integration**
+🌱 Learning: **Advanced digital design techniques and SoC integration**
 
 💬 Ask me about: **Verilog, SystemVerilog, and FPGA-based system design**
 
-⚡ Fun fact: I enjoy solving complex problems and am always eager to learn new technologies!
+⚡ Fun fact: **I enjoy solving complex problems and am always eager to learn new technologies!**
 
 </div>
 
-<h1 align="center"> Experience:</h1>
+<h1 align="center">🛠️ Experience:</h1>
 <br/>
 <div align="center">
   
@@ -38,7 +40,7 @@ Utilized Xilinx Vivado 2023.1 for Zynq 7000 SoC Embedded Dev Board for frame acq
 
 </div>
 
-<h1 align="center"> Technical Skills:</h1>
+<h1 align="center">🔧 Technical Skills:</h1>
 <br/>
 <div align="center">
   
