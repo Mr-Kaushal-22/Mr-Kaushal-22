@@ -23,6 +23,10 @@ I have extensive experience in FPGA development and data acquisition architectur
 
 </div>
 
+<br/><br/>
+
+ <hr/>
+
 <h1 align="center">🛠️ Experience:</h1>
 <br/>
 <div align="center">
@@ -39,6 +43,10 @@ Designed a data acquisition architecture for CMOS Sensor interfaced by LVDS seri
 Utilized Xilinx Vivado 2023.1 for Zynq 7000 SoC Embedded Dev Board for frame acquisition and preprocessing.
 
 </div>
+
+<br/><br/>
+
+ <hr/>
 
 <h1 align="center">🔧 Technical Skills:</h1>
 <br/>
