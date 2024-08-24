@@ -32,7 +32,7 @@ I have extensive experience in FPGA development and data acquisition architectur
 <div align="center">
   
 ### [Vicharak Computers PVT LTD](https://vicharak.in/)
-**FPGA Developer Intern** (Feb 2024 - Present) | Surat, Gujarat
+**FPGA Developer** (Feb 2024 - Present) | Surat, Gujarat
 
 Working on a Single Board Computer (SBC) for Parallel Reconfigurable Hardware Development using FPGA.
 
