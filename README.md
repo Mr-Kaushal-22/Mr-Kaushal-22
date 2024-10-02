@@ -35,7 +35,7 @@ I have extensive experience in FPGA development and data acquisition architectur
 **FPGA Developer** (Feb 2024 - Present) | Surat, Gujarat
 
 Created a comprehensive FPGA peripheral library, facilitating easy integration of multiple communication proto-
-cols and control interfaces, called Periplex.
+cols and control interfaces, called [Periplex](https://vicharak.in/periplex).
 
 Successfully integrated various peripherals, including UART, I2C, SPI, GPIO, PWM, WS2812, and CAN, into the
 Periplex system.
