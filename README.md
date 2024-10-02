@@ -34,7 +34,16 @@ I have extensive experience in FPGA development and data acquisition architectur
 ### [Vicharak Computers PVT LTD](https://vicharak.in/)
 **FPGA Developer** (Feb 2024 - Present) | Surat, Gujarat
 
-Working on a Single Board Computer (SBC) for Parallel Reconfigurable Hardware Development using FPGA.
+Created a comprehensive FPGA peripheral library, facilitating easy integration of multiple communication proto-
+cols and control interfaces, called Periplex.
+
+Successfully integrated various peripherals, including UART, I2C, SPI, GPIO, PWM, WS2812, and CAN, into the
+Periplex system.
+
+Configured and optimized peripheral modules for specific application requirements in a modular, scalable design.
+Developed robust communication solutions for real-time systems, with flexible configuration options for various
+peripheral devices.
+
 
 ### [GalaxEye Space LTD](https://www.galaxeye.space/)
 **FPGA Intern** (June 2023 - July 2023) | Bengaluru
@@ -56,7 +65,7 @@ Utilized Xilinx Vivado 2023.1 for Zynq 7000 SoC Embedded Dev Board for frame acq
 
 **Hardware Description/Verification Languages**: Verilog HDL
 
-**Communication Protocols**: I2C, SPI, UART, WS2812, AMBA APB
+**Communication Protocols**: UART, I2C, SPI, GPIO, PWM, WS2812, CAN, AMBA APB
 
 **Developer Tools**: Xilinx Vivado-Vitis, VS Code, Multisim, MATLAB, Keil, Efinix Efinity, iVerilog, GTKWave
 
