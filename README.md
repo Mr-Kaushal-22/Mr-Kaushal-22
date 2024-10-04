@@ -125,6 +125,12 @@ Utilized Xilinx Vivado 2023.1 for Zynq 7000 SoC Embedded Dev Board for frame acq
   </a>
 </p>
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/tej-dabhankar/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mr-Kaushal-22&theme=onedark" />
+  </a>
+</p>
 
  <hr/>
 
